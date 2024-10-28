@@ -73,13 +73,20 @@ cl=classification_report(y_test,y_pred)
 ```
 
 ## Output:
-##Head:
+## Head:
+
+
+
 ![WhatsApp Image 2024-10-28 at 10 11 54_fd66586d](https://github.com/user-attachments/assets/ff72590b-3f13-4f3d-83db-7ffe27501774)
 
-##Info:
+## Info:
+
+
 ![WhatsApp Image 2024-10-28 at 10 12 06_12ce6cbf](https://github.com/user-attachments/assets/f07846ea-4a47-4a78-af0d-a131e8720e66)
 
-##Acuuracy:
+## Acuuracy:
+
+
 ![WhatsApp Image 2024-10-28 at 10 12 11_f1465362](https://github.com/user-attachments/assets/e6bd179a-436d-4398-90dd-bb30316b8cd6)
 
 ## Result:
